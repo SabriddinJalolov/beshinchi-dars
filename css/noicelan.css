@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    bottom: 50px;
+    list-style: 45%;
+    lighting-color: solid blue;
+    border: solid 2px;
+
+}
+.cection_text{
+    border: solid 2px;
+    display: flex;
+
+}
+.costumer{
+    display: flex;
+    border: solid 24px;
+}
+.costumer_user{
+    display: flex;
+    width: 423px;
+height: 504px;
+left: 847px;
+top: 127px;
+
+background: url(photo_2021-01-22_20-01-13-removebg-preview.png);
+}
+ .costumer_last{
+       border: solid 2px;
+       line-height: 100%;
+       list-style: solid blue;
+       margin: 10px;
+ }
+ .footer{
+    display: flex;
+ }
+ .cection_text{
+    display: flex;
+    margin: 30px;
+ }
